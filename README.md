@@ -110,3 +110,4 @@ before proceeding. The data type for the `birthdate` should now be `datetime`.
 
 [guide-migrations]: https://guides.rubyonrails.org/active_record_migrations.html
 [active_record_basics]: http://guides.rubyonrails.org/active_record_basics.html
+# Phase3WritingMigrations
